@@ -1,0 +1,11 @@
+{
+  "index": {
+    "title": "Home",
+    "type": "page",
+    "index": "Introduction"
+  },
+  "books": {
+    "title": "Frameworks",
+    "type": "page"
+  }
+}
